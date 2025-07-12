@@ -59,20 +59,21 @@ The process includes:
 
 ### 💡 Dashboard Overview
 
-![Home]
+### 🔴 **Home**
+
 
 <img width="1330" height="742" alt="image" src="https://github.com/user-attachments/assets/04da5e0c-a698-4a84-ba89-38622d9e8cd2" />
 
-![Loan Analysis]
+### 🔴 **Loan Analysis**
 
 <img width="1328" height="743" alt="image" src="https://github.com/user-attachments/assets/ba2f3970-7a41-4321-812d-da447e6789ee" />
 
 
-![Deposit Analysis]
+### 🔴 **Deposit Analysis**
 
 <img width="1326" height="738" alt="image" src="https://github.com/user-attachments/assets/9e857771-e1d3-434b-92ea-39c086790d16" />
 
-![Summary]
+### 🔴 **Summary**
 
 <img width="1333" height="738" alt="image" src="https://github.com/user-attachments/assets/52d88763-5ccb-4909-a2df-02811be7d29b" />
 
